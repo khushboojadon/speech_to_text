@@ -19,8 +19,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_tts: ^0.8.6
-  medcorder_audio: ^0.0.5
+   
   
   
 
